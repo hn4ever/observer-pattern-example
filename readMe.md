@@ -1,4 +1,4 @@
-# Observer Pattern Example: Store
+# Observer Pattern Example: Store (WIP)
 
 ### Summary
 This project demonstrates the Observer Pattern implemented using Spring Boot's event system. 
